@@ -58,20 +58,32 @@
         <section>
             <h2>Impresión 3D</h2>
             <p> 
-                Para mi impresion 3D empecé a ver que ideas podía hacer , ya que elegí una, empecé a hacer el diseño con ayuda de un tutorial.Despues lo descargue en el formato de archivo indicado.Luego tuve que hacer cita para poder realizar mi impresion 3D en la maquina.En la cita empezaron a revisar que mi diseño estuviera bien y me dijeron cuanto tiempo iba a tardar.Despues metieron el USB a la impresora y empezo.Mi diseño tardo 2 horas en terminar.
+                Para mi impresion 3D empecé a ver que ideas podía hacer , ya que elegí una, empecé a hacer el diseño con ayuda de un tutorial.
+                Despues lo descargue en el formato de archivo indicado.Luego tuve que hacer cita para poder realizar mi impresion 3D en la maquina.
+                En la cita empezaron a revisar que mi diseño estuviera bien y me dijeron cuanto tiempo iba a tardar.Despues metieron el USB a la 
+                impresora y empezo.Mi diseño tardo 2 horas en terminar.
             </p>
             <h2>
                 Corte láser
             </h2>
             <p>
-                Primero diseñe mi caja en tinkercad, solo que por una extraña razon siempre se movian los valores del ancho y el largo asi que tuve muchos problemas en eso. Despues logre terminar mi diseño y lo descargue en el formato que debía ser. Luego hice la cita para poder  hacer el corte, salio bien muy bonito.
+                Primero diseñe mi caja en tinkercad, solo que por una extraña razon siempre se movian los valores del ancho y el largo asi que tuve 
+                muchos problemas en eso. Despues logre terminar mi diseño y lo descargue en el formato que debía ser. Luego hice la cita para poder 
+                 hacer el corte, salio bien muy bonito.
             </p>
             <h2>
                 Impresión PCB
             </h2>
             <p>
-Primero hice mi diseño de mi placa, tuve muchos problemas a la hora de elegir los componentes asi que tuve que imprimir varias veces por algunos errores del diseño y cosas asi al final ninguna salio bien pero utilice la que salio mejor.
+                Primero hice mi diseño de mi placa, tuve muchos problemas a la hora de elegir los componentes asi que tuve que imprimir varias veces
+                 por algunos errores del diseño y cosas asi al final ninguna salio bien pero utilice la que salio mejor.
             </P>
+
          </section>
+         <footer>
+            <p> 2025 Mi Pagina web
+                Ivanna Castillo Ramírez
+            </p>
+         </footer>
     </body>
 </html>
