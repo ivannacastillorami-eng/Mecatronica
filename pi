@@ -27,7 +27,39 @@
                 box-shadow:0 4px 8px rgba(0,0,0,0.1);
 
             }
-            
+            h1{font-size:2.5em;
+            margin-bottom:10px;
+        }
+        h2{
+            color:#0a9396;
+            margin-top:20px;
+
+
+        }
+ p{
+    font-size:1.1em;
+    line-height:1.6;
+
+ }  
+ footer{
+    text-align:center;
+    background-color:white;
+    padding:15px 0;
+    margin-top 30px;
+
+ }  
+
         </style>
     </head>
+    <body>
+        <header>
+            <h1>Mi página web</h1>
+        </header>
+        <section>
+            <h2>Impresión 3D</h2>
+            <p> 
+                Para mi impresion 3D empecé a ver que ideas podía hacer , ya que elegí una, empecé a hacer el diseño con ayuda de un tutorial.Despues lo descargue en el formato de archivo indicado.Luego tuve que hacer cita para poder realizar mi impresion 3D en la maquina.En la cita empezaron a revisar que mi diseño estuviera bien y me dijeron cuanto tiempo iba a tardar.Despues metieron el USB a la impresora y empezo.Mi diseño tardo 2 horas en terminar.
+            </p>
+         </section>
+    </body>
 </html>
